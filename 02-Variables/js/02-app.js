@@ -10,7 +10,7 @@ producto = 20;
 
 console.log(producto);
 
-// variable sin valor que se puede asignar luego
+// variable sin valor que se puede asignar luego. 
 let precio; 
 
 precio = 300; 

@@ -1,4 +1,4 @@
-// var sintaxis antigua
+// var sintaxis antigua. 
 
 // incializar variable con un valor (var 1ra varibale)
 var producto = "Monitor de 24 pulgadas";

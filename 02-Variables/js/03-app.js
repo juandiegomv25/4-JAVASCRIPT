@@ -3,7 +3,7 @@
 
 const producto = "tablet"; 
 
-// no se pueden reasignar
+// no se pueden reasignar valor
 producto = "monitor"; 
 
 console.log(producto); 
