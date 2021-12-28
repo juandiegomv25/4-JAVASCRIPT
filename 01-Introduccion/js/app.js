@@ -71,7 +71,7 @@ console.warn("Mosca por ahí");
 // También monitorear el tiempo que tarda algo en ejecutarse
 console.time('Hola'); console.warn("Eso no esta permitido"); console.warn("Eso no esta permitido");
 console.warn("Eso no esta permitido");
-console.timeEnd('Hola');
+console.timeEnd('Qlq');
    
 
 // 07 - Muchas programadores cometen el error de que se fijan en tener un código muy ordenado en lugar de preocuparse por aprender cosas más avanzadas, otros cometen el error al reves, aprenden un lenguaje a profunidad pero su código es muy desordenado y dificil de leer
