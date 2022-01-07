@@ -1,7 +1,7 @@
 //Incrementos o Decrementos
 
 let puntaje = 5;
-puntaje++;//5+1=6, puede funcionar para un juego de ptos como futbol
+puntaje++;//5+1=6, puede funcionar para un juego de puntos como futbol
 ++puntaje;//6+1=7
 puntaje--;//7-1=6
 --puntaje;//6-1=5 

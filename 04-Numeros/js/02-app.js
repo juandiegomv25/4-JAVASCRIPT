@@ -2,22 +2,22 @@
 const numero1 = 30;
 const numero2 = 20;
 
-//suma 
+//suma +
 let resultado1;
 resultado1 = numero1 + numero2;
 console.log(resultado1); 
 
-//resta
+//resta -
 let resultado2;
 resultado2 = numero1 - numero2; 
 console.log(resultado2); 
 
-// Multiplicación 
+// Multiplicación *
 let resultado3;
 resultado3 = numero1 * numero2;  
 console.log(resultado3);
 
-// División 
+// División /
 let resultado4;
 resultado4 = numero1 / numero2;  
 console.log(resultado4);

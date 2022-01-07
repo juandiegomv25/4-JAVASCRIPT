@@ -1,4 +1,4 @@
-// Orden de operaciones en js
+// Orden de operaciones en javascript
 
 let resultado;
 

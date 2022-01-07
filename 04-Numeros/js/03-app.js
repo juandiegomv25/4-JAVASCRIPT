@@ -5,7 +5,7 @@ let resultado;
 resultado = Math.PI;
 console.log(resultado); 
 
-//Redondear, funciona como en las notas de la uni 
+//Redondear, funciona como en las notas de la uni
 resultado1 = Math.round(2.8);
 console.log(resultado1); 
 

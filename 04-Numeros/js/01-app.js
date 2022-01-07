@@ -1,7 +1,6 @@
 // creación de números 
 // su tipo de dato es un string
 
-
 // nro enteros 
 const numero1 = 30;
 

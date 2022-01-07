@@ -4,7 +4,7 @@ const numero1 = "20";//string
 console.log(numero1);
 
 /*
-1- Convertir un string a numero, color azul no negro
+1- Convertir un string a número, color azul no negro
 2- .parseInt convierte solo en nros enteros
 3- console.log(typeof numero1); el typeof te indica que es un string
 */
